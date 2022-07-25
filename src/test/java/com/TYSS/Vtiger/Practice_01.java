@@ -39,6 +39,7 @@ public class Practice_01 {
 		{
 			System.out.println("hello1");
 			System.out.println("BiiiiiiiHiiiiiiii");
+			System.out.println("Namaste")
 		
 			
 		}
