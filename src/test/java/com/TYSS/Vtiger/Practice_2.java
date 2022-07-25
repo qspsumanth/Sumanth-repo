@@ -11,6 +11,7 @@ public class Practice_2 {
 		    System.out.println(url);
 			System.out.println(browser);
 			
+			
 		
 	}
 

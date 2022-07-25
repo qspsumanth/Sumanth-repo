@@ -11,6 +11,7 @@ public class Practice_03 {
 	public static void main(String[] args) {
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
+		driver.manage().window().maximize();
 		driver.quit();
 		
 	}
